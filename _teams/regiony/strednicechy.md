@@ -4,14 +4,14 @@ cid: sck
 name: Střední Čechy
 fullname: Krajské sdružení Středočeský kraj
 img: teams/stredni-cechy.jpg
-leader: Petr Procházka
+leader: Antoník Schejbal
 deputy:
 - František Kopřiva
 - Antonín Schejbal
 - Petra Smutná
 - Jan Lukášek
 contact:
-- zuzana.petruvova
+- filip.dite
 region: Středočeský kraj
 url: https://strednicechy.pirati.cz
 categories:
